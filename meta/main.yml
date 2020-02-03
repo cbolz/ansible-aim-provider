@@ -21,8 +21,8 @@ galaxy_info:
   - name: Windows
     versions:
     - 2012R2
-  
-  galaxy_tags: 
+
+  galaxy_tags:
   - identity
   - password
   - privileged
@@ -32,5 +32,5 @@ galaxy_info:
   - credentials
 
 dependencies:
-  - cyberark-bizdev.modules
-  - cyberark-bizdev.password_lookup_plugin
+  - cyberark.modules
+  - cyberark.password_lookup_plugin
