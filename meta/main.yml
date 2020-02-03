@@ -33,4 +33,4 @@ galaxy_info:
 
 dependencies:
   - cyberark.modules
-  - cyberark.password_lookup_plugin
+  - https://github.com/cyberark/password-lookup-plugin.git
